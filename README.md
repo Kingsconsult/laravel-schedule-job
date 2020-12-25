@@ -1,6 +1,6 @@
 ### Laravel Schedule Job
 
-## This repo is the code snippets for my article on [Schedule a task to run at a specific time in laravel (CronJob)](https://dev.to/kingsconsult/schedule-a-task-to-run-at-a-specific-time-in-laravel-cronjob-5aaf). This article will teach you how to create a task in Laravel that will run at your specific time
+This repo is the code snippets for my article on [Schedule a task to run at a specific time in laravel (CronJob)](https://dev.to/kingsconsult/schedule-a-task-to-run-at-a-specific-time-in-laravel-cronjob-5aaf). This article will teach you how to create a task in Laravel that will run at your specific time
 
 ## How to Run
 **1. Fork or Clone the repo to your machine**
